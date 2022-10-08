@@ -21,7 +21,7 @@ Hyperspectral images (HSIs) are known for their high dimensionality and wide spe
 
 
 ## Citation
-### We would appreciate a citation to the original paper if you use any part of this code (CRV + MHDL or anyone) for your research works.
+### We would appreciate a citation to the original paper if you use this code in your research works.
 ```
 {
   @article{ALALIMI2022109096,
